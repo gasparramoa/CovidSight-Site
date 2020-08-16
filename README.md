@@ -1,2 +1,1 @@
-# MountainSight
 # CovidSight-Site
